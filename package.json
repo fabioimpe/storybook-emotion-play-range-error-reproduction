@@ -133,6 +133,7 @@
     "@storybook/react": "^7.1.0-alpha.0",
     "@storybook/react-webpack5": "^7.1.0-alpha.0",
     "@storybook/testing-library": "^0.1.0",
+    "chromatic": "^6.17.3",
     "storybook": "^7.1.0-alpha.0"
   }
 }
